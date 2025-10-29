@@ -1,0 +1,5 @@
+Purpose of this file is deeper documentation than a README for this repo.
+
+This, um, empty repo.
+
+<sad trombone>
