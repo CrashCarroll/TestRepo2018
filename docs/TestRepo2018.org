@@ -7,3 +7,5 @@ This, um, empty repo.
 Here is an update!
 
 Here is an update to the dev branch!
+
+One last update that makes this file ready to merge into master
